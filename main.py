@@ -1,5 +1,3 @@
-
-
 import os
 import io
 from fpdf import FPDF
