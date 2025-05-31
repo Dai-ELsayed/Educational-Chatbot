@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+__init__.py
+
+# Environment
+venv/
+.env
+
+# Generated data
+chroma/
+saved_questions/
+temp_upload/
+
+pdf1/
+
+prepare_chroma_indexes.py
