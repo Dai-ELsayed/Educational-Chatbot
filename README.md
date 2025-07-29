@@ -45,29 +45,3 @@ educational_chat/
 ├── requirements.txt          # Python dependencies
 └── README.md                 # This file
 
-
-## Setup
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/Dai-ELsayed/educational_chat.git
-   cd educational_chat
-
-2. Create and activate a virtual environment:
-
-python -m venv venv
-venv\Scripts\activate  # On Windows
-source venv/bin/activate  #On Linux
-
-
-
-3. Install dependencies:
-pip install -r requirements.txt
-
-4.Set up environment variables:
-Create a .env file in the root directory:
-OPENROUTER_API_KEY=your_api_key_here
-OPENAI_API_BASE=https://api.openai.com/v1
-
-5.Run the application:
-python main.py
