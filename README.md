@@ -47,6 +47,9 @@ educational_chat/
 
 ---
 
+
+```
+
 ### Setup Instructions
 
 ### 1. Clone the repository
@@ -57,13 +60,13 @@ cd educational_chat
 
 ### 2. Create and activate a virtual environment
 
-🪟 **On Windows:**
+**On Windows:**
 ```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
-🐧 **On Linux / macOS:**
+**On Linux / macOS:**
 ```bash
 python3 -m venv venv
 source venv/bin/activate
